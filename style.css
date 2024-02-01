@@ -1,0 +1,203 @@
+ * {
+    padding: 0;
+    margin: 0;
+ }
+
+ #hero {
+    padding: 10rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+    background-image: url('./pexels-matheus-ferrero-1998917.jpg');
+    clip-path: polygon(50% 0%, 100% 0, 100% 94%, 76% 97%, 40% 99%, 0 95%, 0 0);
+    background-position: top;
+    background-size: cover;
+ }
+
+ nav {
+    background-color: rgba(0, 0, 0, 0.188);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+ }
+
+ #my-img1 {
+    border-radius: 0.9rem;
+ }
+
+ #my-img2 {
+    border-radius: 0.9rem;
+ }
+
+ #my-img3 {
+    border-radius: 0.9rem;
+ }
+
+ #my-img4 {
+    border-radius: 0.9rem;
+ }
+
+ #sevices {
+    background-color: #fafafa;
+ }
+
+ #Appointment {
+    background-color: #e5235a;
+ }
+
+ .icon1 {
+    border-radius: 50%;
+ }
+
+ #img1 {
+    margin-top: -6rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
+    height: 30vh;
+    width: 140vh;
+    background-image: url('./pexels-the-shaan-photography-3957625.jpg');
+    background-position: center;
+    background-size: cover;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+ }
+
+ #card1 {
+    border-radius: 0.8rem;
+ }
+
+ #card2 {
+    border-radius: 0.8rem;
+ }
+
+ #card3 {
+    border-radius: 0.8rem;
+ }
+
+ #card4 {
+    border-radius: 0.8rem;
+ }
+
+ #my-card {
+    background-color: #f9f9f9;
+ }
+
+ #card5 {
+    border-radius: 0.8rem;
+ }
+
+ #card6 {
+    border-radius: 0.8rem;
+ }
+
+ #card7 {
+    border-radius: 0.8rem;
+ }
+
+ #card8 {
+    border-radius: 0.8rem;
+ }
+
+ #img18 {
+    border-radius: 50%;
+ }
+
+ #contact {
+    background-color: #1a1a1a;
+ }
+
+ #about {
+    background-image: url('./myimg.jpg');
+    background-position: center;
+    background-size: cover;
+    clip-path: polygon(50% 0%, 100% 0, 100% 60%, 66% 70%, 27% 66%, 0% 60%, 0 0);
+    height: 100vh;
+ }
+
+ #about h1 {
+    font-size: 4rem;
+    color: red;
+ }
+
+ #my-story {
+    background-color: #f7f7f7;
+ }
+
+ #img20 {
+    border-radius: 0.8rem;
+ }
+
+ #card10 {
+    background-color: #e5235a;
+ }
+
+ #services {
+    background-image: url('./myimg.jpg');
+    background-position: center;
+    background-size: cover;
+    clip-path: polygon(50% 0%, 100% 0, 100% 60%, 66% 70%, 27% 66%, 0% 60%, 0 0);
+    height: 100vh;
+ }
+
+ #services h1 {
+    font-size: 4rem;
+    color: red;
+ }
+
+ #col1 {
+    background-image: url('./pexels-cottonbro-studio-3997390.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 55vh;
+    width: 45vh;
+    border-radius: 0.8rem;
+ }
+ #col2 {
+   background-image: url('./pexels-cottonbro-studio-3993447.jpg');
+   background-position: center;
+   background-size: cover;
+   height: 55vh;
+   width: 45vh;
+   border-radius: 0.8rem;
+}
+#col3 {
+   background-image: url('./pexels-yan-krukau-5793900.jpg');
+   background-position: center;
+   background-size: cover;
+   height: 55vh;
+   width: 45vh;
+   border-radius: 0.8rem;
+}
+#col4 {
+   background-image: url('./pexels-tembela-bohle-1884582.jpg');
+   background-position: center;
+   background-size: cover;
+   height: 55vh;
+   width: 45vh;
+   border-radius: 0.8rem;
+}
+#col5 {
+   background-image: url('./pexels-elina-fairytale-3865676.jpg');
+   background-position: center;
+   background-size: cover;
+   height: 55vh;
+   width: 45vh;
+   border-radius: 0.8rem;
+}
+#col6 {
+   background-image: url('./pexels-cottonbro-studio-7581589.jpg');
+   background-position: center;
+   background-size: cover;
+   height: 55vh;
+   width: 45vh;
+   border-radius: 0.8rem;
+}
+.d-block{
+   border-radius: 0.8rem;
+}
